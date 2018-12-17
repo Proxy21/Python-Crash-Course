@@ -3,7 +3,7 @@ import sys
 import pygame
 
 from settings import Settings
-from ship import ship
+from ship import Ship
 
 def run_game():
     # Init game and create a screen object settings.
